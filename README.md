@@ -1,0 +1,12 @@
+# Surge Rule Sets
+
+按策略拆分的 Surge rule-set。
+
+```conf
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/allenzerg001/rules/main/btc.list,BTC
+RULE-SET,https://raw.githubusercontent.com/allenzerg001/rules/main/intelligence.list,Intelligence
+RULE-SET,https://raw.githubusercontent.com/allenzerg001/rules/main/proxy.list,PROXY
+RULE-SET,https://raw.githubusercontent.com/allenzerg001/rules/main/direct.list,DIRECT
+RULE-SET,https://raw.githubusercontent.com/allenzerg001/rules/main/reject.list,REJECT
+```
