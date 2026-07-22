@@ -1,4 +1,5 @@
 # PROXY
+DOMAIN-SUFFIX,mail.com
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,grouplens.org
 DOMAIN-SUFFIX,seagm.com
