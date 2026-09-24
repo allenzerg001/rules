@@ -18,6 +18,7 @@ DOMAIN,cdn.oaistatic.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,ai.meta.com
 DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,muse.ai
 
 # Meta 登录 / Graph API
 DOMAIN-SUFFIX,facebook.com
